@@ -1,9 +1,11 @@
 html{
     margin: 0;
+    box-sizing:border-box;
 }
 
 body{
     background-color: aqua;
+    padding: 0;
 }
 
 /* LAYOUT */
@@ -13,9 +15,9 @@ ul{
 }
 
 .conteiner{
-    max-width: 900px;
+    /*max-width: 900px;*/
     margin: 0;
-    padding: 0 20px;
+    /*padding: 0 20px;*/
 }
 
 .row{
@@ -44,3 +46,22 @@ padding: 0 10px;
     display: flex;
     gap: 20px;
 }
+
+/*MAIN CONTENT*/
+
+.conteiner.row1{
+    min-height: 300px;
+    background-color: rgb(9, 9, 107);
+    margin: auto;
+    padding: 10px;
+    justify-content: center;
+
+}
+
+.row.col-1{
+    min-height: 150px;
+    background-color: pink;
+    max-width: 500px;
+    align-items: center;
+}
+
