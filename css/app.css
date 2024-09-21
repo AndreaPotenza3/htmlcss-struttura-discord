@@ -186,5 +186,30 @@ nav .col{
     width: calc(100% / 6);
 }
 
+.seventh{
+    height: 50px;
+    background-color: black;
+}
+
+.seventh .row{
+    justify-content: space-between;
+    background-color: aquamarine;
+    height: 45px;
+}
+
+.seventh .conteiner{
+    height: 50px;
+}
+
+.seventh a{
+    background-color: rgb(221, 115, 115);
+    padding: 4px 5px;
+}
+
+.seventh button{
+    background-color: rgb(221, 115, 115);
+
+}
+
 
 
