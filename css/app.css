@@ -211,5 +211,9 @@ nav .col{
 
 }
 
+.debug{
+    border: dashed black 1px;
+}
+
 
 
