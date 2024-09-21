@@ -148,5 +148,21 @@ nav .col{
     width: 60%;
 }
 
+.fifth{
+    height: 650px;
+    background-color: grey;
+}
+
+.fifth .row{
+    padding: 25px 0;
+}
+
+.col-5{
+    height: 600px;
+    background-color: green;
+    margin: auto;
+    width: 100%;
+
+}
 
 
