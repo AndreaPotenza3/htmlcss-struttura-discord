@@ -165,4 +165,26 @@ nav .col{
 
 }
 
+.sixth{
+    height: 350px;
+    background-color: black;
+}
+
+.sixth .row{
+    padding: 25px 0;
+}
+
+.col-6{
+    height: 300px;
+    background-color: rgb(163, 70, 70);
+    width: 32%;
+}
+
+.col-7{
+    height: 300px;
+    background-color: rgb(47, 139, 109);
+    width: 16%;
+}
+
+
 
